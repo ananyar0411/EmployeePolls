@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render navbar correctly Matches DOM Snapshot 1`] = `
+<nav
+  className="navbar"
+>
+  <ul>
+    <li>
+      <a
+        href="/"
+        onClick={[Function]}
+      >
+        Login
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
